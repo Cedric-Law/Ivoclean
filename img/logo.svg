@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 250" width="330" height="250" role="img" aria-label="Logo IVOCLEAN">
+   <path d="M18 138 L128 20 L238 112 L222 118 L128 52 L40 146Z" fill="#1b3fa5"/>
+   <path d="M18 138 L128 20 L150 38 L128 52Z" fill="#14307f"/>
+   <rect x="96" y="82" width="26" height="26" fill="#0f2766"/>
+<rect x="127" y="82" width="26" height="26" fill="#0f2766"/>
+   <rect x="96" y="112" width="26" height="26" fill="#0f2766"/>
+<rect x="127" y="112" width="26" height="26" fill="#0f2766"/>
+   <path d="M22 168 C70 120 170 150 262 128 C230 180 120 190 22 168Z" fill="#1b3fa5"/>
+   <path d="M70 184 C130 168 220 178 272 150 C240 200 130 212 70 184Z" fill="#5b9b30"/>
+   <path d="M170 128 C190 60 250 50 300 52 C300 110 250 140 170 128Z" fill="#4d8c2a"/>
+   <path d="M180 124 C215 96 250 76 288 60" stroke="#fff" stroke-width="3" fill="none" opacity=".7"/>
+   <g fill="#1b3fa5">
+<path d="M236 10 l5 14 l14 5 l-14 5 l-5 14 l-5 -14 l-14 -5 l14 -5z"/>
+<path d="M200 40 l3 8 l8 3 l-8 3 l-3 8 l-3 -8 l-8 -3 l8 -3z"/>
+<path d="M262 46 l3 8 l8 3 l-8 3 l-3 8 l-3 -8 l-8 -3 l8 -3z"/>
+</g>
+  
+</svg>

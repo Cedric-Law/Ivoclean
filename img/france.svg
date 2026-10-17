@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 320" width="300" height="320"><defs>
+<pattern id="d" width="9" height="9" patternUnits="userSpaceOnUse">
+<circle cx="4.5" cy="4.5" r="3" fill="#2f4fae"/>
+</pattern>
+</defs>
+<path d="M155 5 210 30 245 80 285 90 275 140 245 190 280 240 250 300 145 310 95 295 65 260 70 210 35 170 0 135 0 90 65 60 110 55Z" fill="url(#d)"/>
+</svg>
