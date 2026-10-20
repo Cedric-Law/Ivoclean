@@ -535,3 +535,25 @@ h3,
    outline: 3px solid #fff;
    outline-offset: 3px;
  }
+
+ .mail {
+   background: #fff;
+   color: var(--navy);
+   font: 600 20px Oswald, sans-serif;
+   text-decoration: none;
+   padding: 10px 22px;
+   border-radius: 30px;
+   transition: background .2s, color .2s;
+ }
+
+ .mail:hover,
+ .mail:focus-visible {
+   background: var(--green2);
+   color: #fff;
+   outline: 3px solid #fff;
+   outline-offset: 3px;
+ }
+
+ .mail { display: inline-flex; align-items: center; gap: 10px; font: 600 20px Oswald, sans-serif; text-decoration: none; padding: 10px 22px; border-radius: 30px; transition: background .2s, color .2s; }
+ .mail svg { width: 24px; height: 24px; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+ .mail { background: #fff; color: var(--navy); } .mail:hover, .mail:focus-visible { background: var(--green2); color: #fff; outline: 3px solid #fff; outline-offset: 3px; }
